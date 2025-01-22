@@ -7,7 +7,14 @@
 </div>
 
 <!-- Social media links -->
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+<div id = "badges" align = "center">
+  <a href = "https://www.linkedin.com/in/talon-booth">
+    <img 
+      src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+      width = "100"
+      alt = "LinkedIn logo"/>
+  </a>
+</div>
 
 <!-- Profile README description -->
 # **About Me**
