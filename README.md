@@ -25,6 +25,7 @@
 
 <!-- Profile README description -->
 <h1>
+  <!-- Link swinging sword GIF -->
   <img
     src   = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThvNHM1Nzc2eGQ4cXFrMnQ4M3lxbmxkbWdscWh2dmc1a240MW9obSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/107QsHzZW54hJC/giphy.gif"
     width = "50px"
@@ -43,13 +44,13 @@
 - ### Preferred programming language: Python
 
 <!-- Programming software section -->
-# **Languages/Tools**
+# Languages/Tools
 <div>
   <img
     src   = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
     width = 100
     alt   = "Python"
-    >&nbsp;
+  />&nbsp;
   <img
     src   = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
     width = 100
@@ -59,7 +60,25 @@
     src   = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHUaqePbPcoCl8xBGfX9GmoFMpcpNek998Q&s"
     width = 100
     alt   = "Mathematica"
-    >
+  />
+</div>
+
+<!-- Most used languages bar -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talonbooth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Libraries/Frameworks section -->
+# Libraries/Frameworks
+<div>
+  <img
+    src   = "https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"
+    width = 100
+    alt   = "sklearn"
+  />&nbsp;
+  <img
+    src   = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"
+    width = 100
+    alt   = "pandas"
+  />
 </div>
 
 <!-- Education section -->
@@ -70,12 +89,23 @@
     width = 200
     height = 200
     alt   = "UVA"
-    >&nbsp;
+  />&nbsp;
   <img
     src    = "https://brand.vt.edu/content/brand_vt_edu/en/licensing/university-trademarks/_jcr_content/content/vtmulticolumn_1001687044/vt-items_0/adaptiveimage.transform/s-medium/image.png"
     width  = 200
     height = 200
     alt    = "VT"
-    >
+  />
 </div>
 
+<!-- Contact section -->
+# Want to contact me?
+<div id = "badges" style = "text-align: center;">
+  <a href = "mailto:trbooth2@gmail.com">
+    <img
+      src   = "https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"
+      width = 200
+      alt   = "Gmail"
+    />
+  </a>
+</div>
