@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Header GIF (from Giphy) -->
+<div id = "header" align = "center">
+  <img
+    src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU2ZGp1N3AxZWpkejFweGpkbTZ0bWVza3lldm4zYXF4ZzIyMzBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UteRPYSpbT6tmHRgT/giphy.gif"
+    width = "300"
+    alt = "GIF animation"/>
+</div>
 
-<!--
-**talonbooth/talonbooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social media links -->
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
 
-Here are some ideas to get you started:
+<!-- Profile README description -->
+# **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 1st Year PhD Student in the Materials Informatics Group at the University of Virginia
+- ### Preferred programming language: Python
