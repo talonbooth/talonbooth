@@ -36,8 +36,8 @@
 </h1>
 
 - ### Grew up in Riner, Virginia
-- ### Graduated from Virginia Tech (2024) - B.S. in Chemical Engineering
-- ### 1st Year PhD Student
+- ### Graduated from Virginia Tech (2024) - BS in Chemical Engineering
+- ### 2nd Year MS Student
   - ### Department of Materials Science & Engineering - University of Virginia (UVA)
   - ### [UVA Materials Informatics Group](https://engineering.virginia.edu/labs-groups/materials-informatics-group)
 - ### Preferred speaking language: English
