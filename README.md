@@ -1,13 +1,22 @@
 <!-- Header GIF -->
-<p align = "left">
-  <img
-      src = ""
-      width = "200"
+<table align = "center">
+  <tr>
+  <td valign = "middle">
+    <img
+      src = "assets/master_sword.gif"
+      width = "300"
       alt = "master_sword_gif"
-  />
-</p>
+    />
+  </td>
+  
+  <td valign = "middle" align = "center">
+  
+  # You've Found a Treasure!
+  
+  </td>
+  </tr>
+</table>
 
-https://tenor.com/view/master-sword-zelda-its-raser-time-it-navi-gif-18273631
 ***
 
 <!-- Profile README description -->
