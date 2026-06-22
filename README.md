@@ -11,7 +11,7 @@
   
   <td valign = "middle" align = "center">
   
-  # You've Found a Treasure!
+  ### You've Found a Treasure!
   
   </td>
   </tr>
