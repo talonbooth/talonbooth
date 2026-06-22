@@ -22,7 +22,7 @@
 <!-- Profile README description -->
 ### Hello there! I'm Talon Booth, and here's a little bit about me:
 
-- 🏡 I grew up in Riner, Virginia
+- 🏡 I grew up in southwest Virginia
 - 🦃 I graduated from [Virginia Tech](https://www.vt.edu/) (2024) - BS in Chemical Engineering
 - 🏛️ I'm currently a 2nd year MS student at the [Univeristy of Virginia](https://www.virginia.edu/)
 - 🗡️ I'm a huge fan of The Legend of Zelda series!
