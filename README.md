@@ -1,111 +1,74 @@
-<!-- Header GIF (from Giphy) -->
-<div id = "header" align = "center">
+<!-- Header GIF -->
+<p align = "left">
   <img
-    src   = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU2ZGp1N3AxZWpkejFweGpkbTZ0bWVza3lldm4zYXF4ZzIyMzBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UteRPYSpbT6tmHRgT/giphy.gif"
-    width = "300"
-    alt   = "GIF animation"
+      src = ""
+      width = "200"
+      alt = "master_sword_gif"
   />
-</div>
+</p>
 
-<!-- Social media links -->
-<div id = "badges" align = "center">
-  <a href = "https://www.linkedin.com/in/talon-booth">
-    <img
-      src   = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
-      width = "100"
-      alt   = "LinkedIn logo"
-    />
-  </a>
-</div>
-
-<!-- Welcome statement -->
-<h1 align = "center">
-  Welcome to my GitHub profile!
-</h1>
+https://tenor.com/view/master-sword-zelda-its-raser-time-it-navi-gif-18273631
+***
 
 <!-- Profile README description -->
-<h1>
-  <!-- Link swinging sword GIF -->
+### Hello there! I'm Talon Booth, and here's a little bit about me:
+
+- 🏡 I grew up in Riner, Virginia
+- 🦃 I graduated from [Virginia Tech](https://www.vt.edu/) (2024) - BS in Chemical Engineering
+- 🏛️ I'm currently a 2nd year MS student at the [Univeristy of Virginia](https://www.virginia.edu/)
+- 🗡️ I'm a huge fan of The Legend of Zelda series!
+<!-- - 🎓 I graduated from the [Univeristy of Virginia](https://www.virginia.edu/) (2026) - MS in Materials Science and Engineering -->
+
+<div id = "header" align = "center">
   <img
-    src   = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThvNHM1Nzc2eGQ4cXFrMnQ4M3lxbmxkbWdscWh2dmc1a240MW9obSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/107QsHzZW54hJC/giphy.gif"
-    width = "50px"
-    style = "vertical-align: middle;"
-    alt   = "Link sword GIF"
+    src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU2ZGp1N3AxZWpkejFweGpkbTZ0bWVza3lldm4zYXF4ZzIyMzBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UteRPYSpbT6tmHRgT/giphy.gif"
+    width = "200"
+    alt = "hammering_gif"
   />
-  About Me:
-</h1>
+</div>
 
-- ### Grew up in Riner, Virginia
-- ### Graduated from Virginia Tech (2024) - BS in Chemical Engineering
-- ### 2nd Year MS Student
-  - ### Department of Materials Science & Engineering - University of Virginia (UVA)
-  - ### [UVA Materials Informatics Group](https://engineering.virginia.edu/labs-groups/materials-informatics-group)
-- ### Preferred speaking language: English
-- ### Preferred programming language: Python
-
-<!-- Programming software section -->
-# Languages/Tools
-<div>
-  <img
-    src   = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
-    width = 100
-    alt   = "Python"
-  />&nbsp;
-  <img
-    src   = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-    width = 100
-    alt   = "Linux"
-    >&nbsp;
+<!-- Software languages and tools -->
+### Top Languages/Tools
+<p align = "left">
+  <a href = "https://skillicons.dev">
     <img
-    src   = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHUaqePbPcoCl8xBGfX9GmoFMpcpNek998Q&s"
-    width = 100
-    alt   = "Mathematica"
-  />
-</div>
-
-<!-- Most used languages bar -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talonbooth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Libraries/Frameworks section -->
-# Libraries/Frameworks
-<div>
-  <img
-    src   = "https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"
-    width = 100
-    alt   = "sklearn"
-  />&nbsp;
-  <img
-    src   = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"
-    width = 100
-    alt   = "pandas"
-  />
-</div>
-
-<!-- Education section -->
-# Education
-<div>
-  <img
-    src   = "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/8/3b/83b060b6-c10a-11ec-8141-1f3ece9bc8ed/6260a62f4ab55.image.jpg"
-    width = 200
-    height = 200
-    alt   = "UVA"
-  />&nbsp;
-  <img
-    src    = "https://brand.vt.edu/content/brand_vt_edu/en/licensing/university-trademarks/_jcr_content/content/vtmulticolumn_1001687044/vt-items_0/adaptiveimage.transform/s-medium/image.png"
-    width  = 200
-    height = 200
-    alt    = "VT"
-  />
-</div>
-
-<!-- Contact section -->
-# Want to contact me?
-<div id = "badges" style = "text-align: center;">
-  <a href = "mailto:trbooth2@gmail.com">
-    <img
-      src   = "https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"
-      width = 200
-      alt   = "Gmail"
+      src = "https://skillicons.dev/icons?i=py,postgresql,git,docker,ubuntu,latex"
     />
   </a>
-</div>
+</p>
+
+<!-- Interests and passions -->
+### My Interests/Passions
+- 🖥️ I'm eager to learn more about command-line interface tools and how to develop them
+- 📈 I'm looking to build upon my machine learning skills and study interpretable machine learning
+- 🌐 I'm learning about frontend development for web applications in using HTML, CSS and JavaScript
+- ⚛ I'm currently building upon a Python library I made to help material scientists with data extraction
+
+<!-- Contact me -->
+### Connect with Me!
+<p align = "left">
+  <a href = "https://www.facebook.com/talon.booth" target = "_blank">
+    <img
+      src = "https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt = "logo_facebook"
+    />
+  </a>
+
+  <a href = "https://www.linkedin.com/in/talon-booth" target = "_blank">
+    <img
+      src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt = "logo_linkedin"
+    />
+  </a>
+</p>
+
+***
+
+<!-- GitHub Stats -->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=talonbooth&show_icons=true&theme=tokyonight" height = "200"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=talonbooth&layout=compact&theme=tokyonight" height = "200"/>
+</p>
+
+<!-- Hyperlinks -->
+
